@@ -1,0 +1,7 @@
+[package]
+name = "rs_graph_api"
+version = "0.1.0"
+authors = ["eds <ericdeansanchez@berkeley.edu>"]
+edition = "2018"
+
+[dependencies]
